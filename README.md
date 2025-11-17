@@ -3,7 +3,7 @@ Learning Github Practice in KY
 
 ## Github
 
-## HELLO WORLD!
+### HELLO WORLD!
 ```python
 print("Hello World")
 ```
